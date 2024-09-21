@@ -1,0 +1,48 @@
+CLASS 1. [+ all info in MySql class sql1.]
+MY SQL --> online database from Oracle
+Structure Query language - a well organized language to retrieve data from database
+RDBMS --> relational database management system --> is a collection of tables that store particular sets of data in an organized way. each table has keys and these keys can connect one table to another.
+
+
+
+
+
+CLASS 2. [+ sql2]
+Relational OR | AND | NOT in SQL.
+
+
+
+
+
+CLASS 3. [+ sql3]
+IMPORTANT FOR INTERVIEW: WHERE CLAUSE VS HAVING CLAUSE
+-where clause:
+-user to filter rows
+-applied before group by
+used if condition doesn't contain group function
+
+having clause:
+-used to filter groups
+-applied after group by
+-used if condition contains aggregate function
+
+
+SubQuery has 2 parts-->Outer Query + Inner Query
+In SQL, a nested query (or subquery) is a query within another query.
+The inner query provides results that the outer query can use.
+LIVE CODING TO PRACTISE--> https://livesql.oracle.com/ords/f?p=590:1000
+
+
+
+
+
+CLASS 4. [+ sql4]
+DML --> SELECT | UPDATE | DELETE | INSERT   [we will focus only at this one as testers].
+DDL --> DROP | RENAME | CREATE | ALTER | TRUNCATE
+DCL --> REVOKE | GRANT
+TCL --> COMMIT | ROLLBACK
+
+
+
+
+CLASS 5.
